@@ -8,12 +8,12 @@
     "env": {
         "API_ID": {
             "description": "لاتغيرها ابدا",
-            "value": "8934899",
+            "value": "8897410",
             "required": true
         },
         "API_HASH": {
             "description": "لاتغيرها ابدا",
-            "value": "bf3e98d2c351e4ad06946b4897374a1e", 
+            "value": "43cb89a7b70782868b77ace21c1341a9", 
             "required": true
         },
         "BOT_TOKEN": {
@@ -21,7 +21,7 @@
             "required": true
         },
         "STRING_SESSION": {
-            "description": "كود بايروجرام : لازم تستخرجة من موقع فريدوم https://replit.com/@freedomSource/Session-Generator#main.py",
+            "description": "كود بايروجرام : لازم تستخرجة من موقع فريدوم https://t.me/fza8bot",
             "required": true
         },
         "BOT_USERNAME": {
@@ -30,17 +30,17 @@
         },
         "SUDO_USERS": {
             "description": "اكتب ايديات المطورين لاتنسى تحط مسافة بين كل ايدي كمثال",
-            "value": "1854384004 1854384004",
+            "value": "1488114134 1488114134",
             "required": true
         },
         "GROUP": {
             "description": "اكتب قناة البوت الثانية ، او اتركها كما هي",
-            "value": "xl444",
+            "value": "E9N99",
             "required": true
         },
         "NETWORK": {
             "description": "اكتب قناة البوت ، او اتركها كما هي",
-           "value": "xl444",
+           "value": "E9N99",
             "required": true
         },
         "MONGODB_URL": {
@@ -50,12 +50,12 @@
         },
         "BOT_NAME": {
             "description": "لاتغيرها ابدا",
-            "value": "muntazer",   
+            "value": "Tipthon",   
             "required": true
         },
         "OWNER_ID": {
             "description": "اكتب ايدي المالك ، او اتركها كما هي",
-            "value": "1854384004",
+            "value": "1488114134",
             "required": true 
         }
     },
