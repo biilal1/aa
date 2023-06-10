@@ -13,8 +13,8 @@ admins = {}
 
 #------------------------ Important Stuff 🤎 -----------------------
 
-API_ID = int(getenv("API_ID", "8897410"))
-API_HASH = getenv("API_HASH", "43cb89a7b70782868b77ace21c1341a9")
+API_ID = int(getenv("API_ID", "28981662"))
+API_HASH = getenv("API_HASH", "a21bb968cf40c2d86c21a376f5f3d32c")
 BOT_TOKEN = getenv("BOT_TOKEN", "5589349935:AAH9KpA1ITepg8crzEIvsc9iAMv1Qqkh4mk")
 DURATION_LIMIT = int(getenv("DURATION_LIMIT", "600"))
 STRING_SESSION = getenv("STRING_SESSION", "AgBXIT-9LrSeXBrBSlm_zNbn0G-o0pEYpGe8HOYLN4Ps8vASipV2f83ElOQMGgPH8ts4wt8pewhfEFR_J-Ii8NPeYVKsmuLmzH8kqhzDHfYly0q2DVqUYpuBGCzyQHEt5RiI8spAl_n1odn4iy3m5P8G6HLPZkp-wMBR-dcMiP9R1pqngyXVr5pupBmnNT1UP5apgW_ayHm9bhyN88I4vGYxHYWhw4SpjCDT2tZSIh4vNGIhnCtoewKxljVE5Rn6xaexfwZA_6QQQ6z_I82mvwpQvBCk-z49yRuEDPTMQL9zgtGV14eKttxgiLwrcDqTqyJBPyv-_NDnnI0QnVshk-_MAAAAAVK2aQ0A")
